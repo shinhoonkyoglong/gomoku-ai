@@ -1,4 +1,4 @@
-# Gomoku (Five in a Row) Player bot
+# Gomoku (Five in a Row) Player bot [PNU Algorithm course]
 
 > **An algorithmic Gomoku bot using pure Python(not machine learning), achieving Rank 2nd in the in-class AI Programming Tournament.**
 
