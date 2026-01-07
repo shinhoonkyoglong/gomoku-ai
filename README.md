@@ -3,8 +3,8 @@
 > **An algorithmic Gomoku bot using pure Python(not machine learning), achieving Rank 2nd in the in-class AI Programming Tournament.**
 
 <p align="center">
-  <img src="[여기에 게임 플레이 스크린샷 이미지 주소를 넣으세요]" width="45%">
-  <img src="[여기에 터미널 입력/출력 스크린샷 이미지 주소를 넣으세요]" width="45%">
+  <img width="774" height="452" alt="image" src="https://github.com/user-attachments/assets/87a806f9-097f-402f-beba-e614d70e4e51" />
+  <img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/99abbd95-a363-4a49-9326-9901638d3fa3" />
 </p>
 
 ## Project Overview
